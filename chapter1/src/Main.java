@@ -27,8 +27,5 @@ public class Main {
         System.out.println(minimal + maximal);
         double numberToRound = (double)(minimal + maximal) / 2;
         System.out.println(Math.round(numberToRound));
-
-        // solving a trigonometric problem
-        
     }
 }
